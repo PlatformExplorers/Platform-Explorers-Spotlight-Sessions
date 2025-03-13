@@ -1,1 +1,2 @@
-# Platform-Explorers-Spotlight-Sessions
+# Platform Explorers Spotlight Sessions
+<p>The aim of our Spotlight session is to shine a light on our guest speakers' career journeys, job roles, or areas of expertise, with a focus on advising early-career professionals on ways to navigate the professional world, address customer challenges critically, and share best practices for job applications and interviews. This will help build confidence in attendees as they embark on their career journeys in tech. </p>
